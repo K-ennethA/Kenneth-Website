@@ -1,0 +1,81 @@
+
+
+.top-container {
+  background-image: url('images/SANFRAN-ken.jpg');
+  height: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.profile-information {
+  text-align: center;
+  color: white;
+  padding-top: 300px;
+  padding-bottom: 800px;
+  font-family: 'Heebo', sans-serif;
+
+}
+
+.h1-main {
+  font-size: 130px;
+}
+
+
+.icon {
+  color: white;
+  padding-top: 30px;
+}
+
+.middle-container {
+  position: relative;
+  bottom: 480px;
+  background-color: #fffeec;
+  text-align: center;
+  z-index: 1;
+  margin-bottom: -480px;
+
+
+}
+.middle-h2{
+  padding-top:  60px;
+  padding-bottom: 30px;
+  line-height: 80px;
+  font-size: 35px;
+  margin: auto 100px auto 100px;
+  font-family: 'Mukta', sans-serif;
+
+}
+.middle-p{
+  padding-bottom: 60px;
+  line-height: 50px;
+  font-size: 25px;
+  margin: auto 150px auto 150px;
+  font-family: 'Mukta', sans-serif;
+
+}
+
+.bottom-container{
+
+  background-color: black;
+  text-align: center;
+
+}
+.footer-h3{
+  padding-top: 15px;
+
+  color: white;
+  font-size: 20px;
+}
+
+.footer-email{
+  color: white;
+  font-size: 15px;
+  padding-top: 8px;
+}
+.icon-bot{
+  color: white;
+  padding: 10px 0px 10px;
+}

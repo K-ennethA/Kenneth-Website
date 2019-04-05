@@ -1,0 +1,49 @@
+.top-container {
+  background-image: url('images/mountain.jpg');
+  height: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.profile-information {
+  text-align: center;
+  color: white;
+  padding-top: 150px;
+  padding-bottom: 350px;
+  font-family: 'Heebo', sans-serif;
+
+
+}
+.h1-main{
+  font-size: 60px;
+}
+
+
+
+
+
+
+.bottom-container{
+
+  background-color: black;
+  text-align: center;
+
+}
+.footer-h3{
+  padding-top: 15px;
+
+  color: white;
+  font-size: 20px;
+}
+
+.footer-email{
+  color: white;
+  font-size: 15px;
+  padding-top: 8px;
+}
+.icon-bot{
+  color: white;
+  padding: 10px 0px 10px;
+}

@@ -1,0 +1,57 @@
+.top-container {
+  background-image: url('images/garden.jpg');
+  height: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.profile-information {
+  text-align: center;
+  color: white;
+  padding-top: 150px;
+  padding-bottom: 350px;
+  font-family: 'Heebo', sans-serif;
+
+
+}
+.h1-main{
+  font-size: 60px;
+}
+
+
+.h2-middle{
+  text-align: center;
+  padding-top: 150px;
+  padding-bottom: 80px;
+}
+.p-middle{
+  text-align: center;
+}
+
+
+
+
+
+.bottom-container{
+
+  background-color: black;
+  text-align: center;
+
+}
+.footer-email{
+  color: white;
+  font-size: 15px;
+  padding-top: 8px;
+}
+.footer-h3{
+  padding-top: 15px;
+
+  color: white;
+  font-size: 20px;
+}
+.icon-bot{
+  color: white;
+  padding: 10px 0px 10px;
+}
